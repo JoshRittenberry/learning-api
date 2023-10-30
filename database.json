@@ -6,7 +6,8 @@
       "lastName": "Rittenberry",
       "email": "joshr@gmail.com",
       "cohort": 67,
-      "password": "joshR123"
+      "password": "joshR123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/159/159198.gif"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "lastName": "Smith",
       "email": "emilys@gmail.com",
       "cohort": 67,
-      "password": "emilyS123"
+      "password": "emilyS123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/689/68958.gif"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "lastName": "Johnson",
       "email": "michaelj@gmail.com",
       "cohort": 67,
-      "password": "michaelJ123"
+      "password": "michaelJ123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/151/151298.jpg"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "lastName": "Williams",
       "email": "lauraw@gmail.com",
       "cohort": 67,
-      "password": "lauraW123"
+      "password": "lauraW123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/147/147485.jpg"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "lastName": "Jones",
       "email": "jacobj@gmail.com",
       "cohort": 67,
-      "password": "jacobJ123"
+      "password": "jacobJ123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/150/150227.jpg"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "lastName": "Brown",
       "email": "emmab@gmail.com",
       "cohort": 67,
-      "password": "emmaB123"
+      "password": "emmaB123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/679/67955.gif"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "lastName": "Garcia",
       "email": "oliviag@gmail.com",
       "cohort": 67,
-      "password": "oliviaG123"
+      "password": "oliviaG123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/103/103153.gif"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "lastName": "Martinez",
       "email": "sophiam@gmail.com",
       "cohort": 67,
-      "password": "sophiaM123"
+      "password": "sophiaM123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/925/92525.gif"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "lastName": "Rodriguez",
       "email": "avar@gmail.com",
       "cohort": 67,
-      "password": "avaR123"
+      "password": "avaR123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/798/79847.gif"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "lastName": "Hernandez",
       "email": "williamh@gmail.com",
       "cohort": 67,
-      "password": "williamH123"
+      "password": "williamH123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/793/79317.png"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "lastName": "Davis",
       "email": "jamesd@gmail.com",
       "cohort": 67,
-      "password": "jamesD123"
+      "password": "jamesD123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/926/92604.gif"
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "lastName": "Gonzalez",
       "email": "isabellag@gmail.com",
       "cohort": 67,
-      "password": "isabellaG123"
+      "password": "isabellaG123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/651/65159.jpg"
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "lastName": "Wilson",
       "email": "benjaminw@gmail.com",
       "cohort": 67,
-      "password": "benjaminW123"
+      "password": "benjaminW123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/990/99053.gif"
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "lastName": "Lee",
       "email": "mial@gmail.com",
       "cohort": 67,
-      "password": "miaL123"
+      "password": "miaL123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/103/103192.gif"
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "lastName": "Perez",
       "email": "ethanp@gmail.com",
       "cohort": 67,
-      "password": "ethanP123"
+      "password": "ethanP123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/873/87322.gif"
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "lastName": "Thomas",
       "email": "noaht@gmail.com",
       "cohort": 67,
-      "password": "noahT123"
+      "password": "noahT123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/158/158969.gif"
     },
     {
       "id": 17,
@@ -134,7 +150,17 @@
       "lastName": "White",
       "email": "alexanderw@gmail.com",
       "cohort": 67,
-      "password": "alexanderW123"
+      "password": "alexanderW123",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/925/92550.gif"
+    },
+    {
+      "firstName": "Haley",
+      "lastName": "Rittenberry",
+      "email": "haleyr@gmail.com",
+      "cohort": 57,
+      "password": "",
+      "pictureUrl": "https://avatarfiles.alphacoders.com/108/108672.gif",
+      "id": 18
     }
   ],
   "topics": [
@@ -507,14 +533,17 @@
       "title": "The Evolution of HTML",
       "body": "HTML has evolved over the years, and each version has brought new and improved features for developers and users alike...",
       "date": "11-06-2023T15:15:00"
+    },
+    {
+      "userId": 18,
+      "topicId": 5,
+      "title": "Husband",
+      "body": "My husband is amazing",
+      "date": "",
+      "id": 44
     }
   ],
   "postLikes": [
-    {
-      "id": 1,
-      "userId": 1,
-      "postId": 1
-    },
     {
       "id": 2,
       "userId": 2,
@@ -594,11 +623,6 @@
       "id": 17,
       "userId": 17,
       "postId": 17
-    },
-    {
-      "id": 18,
-      "userId": 1,
-      "postId": 18
     },
     {
       "id": 19,
@@ -681,11 +705,6 @@
       "postId": 34
     },
     {
-      "id": 35,
-      "userId": 1,
-      "postId": 35
-    },
-    {
       "id": 36,
       "userId": 2,
       "postId": 36
@@ -764,11 +783,6 @@
       "id": 51,
       "userId": 17,
       "postId": 8
-    },
-    {
-      "id": 52,
-      "userId": 1,
-      "postId": 9
     },
     {
       "id": 53,
@@ -851,11 +865,6 @@
       "postId": 25
     },
     {
-      "id": 69,
-      "userId": 1,
-      "postId": 26
-    },
-    {
       "id": 70,
       "userId": 2,
       "postId": 27
@@ -934,11 +943,6 @@
       "id": 85,
       "userId": 17,
       "postId": 42
-    },
-    {
-      "id": 86,
-      "userId": 1,
-      "postId": 43
     },
     {
       "id": 87,
@@ -1021,11 +1025,6 @@
       "postId": 16
     },
     {
-      "id": 103,
-      "userId": 1,
-      "postId": 17
-    },
-    {
       "id": 104,
       "userId": 2,
       "postId": 18
@@ -1104,11 +1103,6 @@
       "id": 119,
       "userId": 17,
       "postId": 33
-    },
-    {
-      "id": 120,
-      "userId": 1,
-      "postId": 34
     },
     {
       "id": 121,
@@ -1271,11 +1265,6 @@
       "postId": 24
     },
     {
-      "id": 154,
-      "userId": 1,
-      "postId": 25
-    },
-    {
       "id": 155,
       "userId": 2,
       "postId": 26
@@ -1354,11 +1343,6 @@
       "id": 170,
       "userId": 17,
       "postId": 41
-    },
-    {
-      "id": 171,
-      "userId": 1,
-      "postId": 42
     },
     {
       "id": 172,
@@ -1527,13 +1511,88 @@
     },
     {
       "userId": 1,
-      "postId": 2,
-      "id": 205
+      "postId": 26,
+      "id": 209
     },
     {
       "userId": 1,
-      "postId": 8,
-      "id": 206
+      "postId": 9,
+      "id": 211
+    },
+    {
+      "userId": 1,
+      "postId": 42,
+      "id": 213
+    },
+    {
+      "userId": 1,
+      "postId": 34,
+      "id": 215
+    },
+    {
+      "userId": 1,
+      "postId": 25,
+      "id": 218
+    },
+    {
+      "userId": 1,
+      "postId": 2,
+      "id": 219
+    },
+    {
+      "userId": 1,
+      "postId": 12,
+      "id": 220
+    },
+    {
+      "userId": 1,
+      "postId": 21,
+      "id": 223
+    },
+    {
+      "userId": 1,
+      "postId": 5,
+      "id": 224
+    },
+    {
+      "userId": 1,
+      "postId": 23,
+      "id": 225
+    },
+    {
+      "userId": 1,
+      "postId": 3,
+      "id": 226
+    },
+    {
+      "userId": 1,
+      "postId": 17,
+      "id": 227
+    },
+    {
+      "userId": 1,
+      "postId": 4,
+      "id": 228
+    },
+    {
+      "userId": 18,
+      "postId": 1,
+      "id": 229
+    },
+    {
+      "userId": 18,
+      "postId": 18,
+      "id": 230
+    },
+    {
+      "userId": 18,
+      "postId": 35,
+      "id": 231
+    },
+    {
+      "userId": 18,
+      "postId": 13,
+      "id": 232
     }
   ],
   "comments": [
@@ -2269,11 +2328,6 @@
       "commentId": 17
     },
     {
-      "id": 25,
-      "userId": 1,
-      "commentId": 17
-    },
-    {
       "id": 26,
       "userId": 4,
       "commentId": 18
@@ -2484,11 +2538,6 @@
       "commentId": 58
     },
     {
-      "id": 69,
-      "userId": 1,
-      "commentId": 59
-    },
-    {
       "id": 70,
       "userId": 4,
       "commentId": 60
@@ -2652,6 +2701,56 @@
       "userId": 1,
       "commentId": 51,
       "id": 102
+    },
+    {
+      "userId": 1,
+      "commentId": 69,
+      "id": 103
+    },
+    {
+      "userId": 1,
+      "commentId": 8,
+      "id": 105
+    },
+    {
+      "userId": 1,
+      "commentId": 17,
+      "id": 106
+    },
+    {
+      "userId": 1,
+      "commentId": 25,
+      "id": 108
+    },
+    {
+      "userId": 1,
+      "commentId": 68,
+      "id": 109
+    },
+    {
+      "userId": 1,
+      "commentId": 47,
+      "id": 110
+    },
+    {
+      "userId": 1,
+      "commentId": 16,
+      "id": 111
+    },
+    {
+      "userId": 18,
+      "commentId": 11,
+      "id": 112
+    },
+    {
+      "userId": 18,
+      "commentId": 44,
+      "id": 113
+    },
+    {
+      "userId": 18,
+      "commentId": 87,
+      "id": 114
     }
   ]
 }
